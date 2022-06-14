@@ -55,7 +55,7 @@ p {
 /*Seção de apresentação*/
 
 #presentation {
-    background-image: url(/images/background-tecnologia-03.jpg);
+    background-image: url(../images/background-tecnologia-03.jpg);
     background-size: cover;
     background-position: top center;
     position: relative;
